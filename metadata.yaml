@@ -1,5 +1,5 @@
-homepage: "https://100shoppers.com"
-documentation: "https://help.100shoppers.com/en/articles/4315445-integration-through-google-tag-manager"
+homepage: "https://leadsourcing.co"
+documentation: "https://leadsourcing.notion.site/How-to-Add-Leadsourcing-s-Script-to-Google-Tag-Manager-99cb927e8c364d6f80b5058a60407413"
 versions:
   - sha: fb37724c8e8b9d1b0434892a880bf578f708a129
     changeNotes: Initial release
