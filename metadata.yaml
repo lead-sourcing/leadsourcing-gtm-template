@@ -3,3 +3,5 @@ documentation: "https://help.100shoppers.com/en/articles/4315445-integration-thr
 versions:
   - sha: fb37724c8e8b9d1b0434892a880bf578f708a129
     changeNotes: Initial release
+  - sha: 33f608b3aa2ebb44a4eedbcd8285c4ea247f873f
+    changeNotes: Correct the License
