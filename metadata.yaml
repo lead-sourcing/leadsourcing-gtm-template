@@ -1,7 +1,9 @@
 homepage: "https://leadsourcing.co"
 documentation: "https://leadsourcing.notion.site/How-to-Add-Leadsourcing-s-Script-to-Google-Tag-Manager-99cb927e8c364d6f80b5058a60407413"
 versions:
-  - sha: fb37724c8e8b9d1b0434892a880bf578f708a129
-    changeNotes: Initial release
+  - sha: ca1af96418af3e86583cf791247d032cdb9b72ff
+    changeNotes: Update documentation
   - sha: 33f608b3aa2ebb44a4eedbcd8285c4ea247f873f
     changeNotes: Correct the License
+  - sha: fb37724c8e8b9d1b0434892a880bf578f708a129
+    changeNotes: Initial release
